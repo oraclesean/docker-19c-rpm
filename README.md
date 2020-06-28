@@ -8,8 +8,8 @@ Go to: https://www.oracle.com/database/technologies/oracle19c-linux-downloads.ht
 Download the 19c Linux x86-64 RPM: `oracle-database-ee-19c-1.0-1.x86_64.rpm`
 
 From Oracle Metalink/My Oracle Support:
-The latest OPatch installer: `p6880880_190000_Linux-x86-64.zip`
-The latest RU patch (19.7): `p30869156_190000_Linux-x86-64.zip`
+* The latest OPatch installer: `p6880880_190000_Linux-x86-64.zip`
+* The latest RU patch (19.7): `p30869156_190000_Linux-x86-64.zip`
 
 To install a different RU (e.g. 19.6) change the following lines in the `Dockerfile`:
 ```
